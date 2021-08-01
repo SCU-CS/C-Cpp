@@ -33,7 +33,7 @@ The template of course repository
 
 如果知道什么是编译器的话，下载 release 的那个msi，直接安装就好了
 
-如果有OI经验，像尝鲜的，可以看看Dev-C++的[6.x版本](https://github.com/Embarcadero/Dev-Cpp/releases)
+如果有OI经验，想尝鲜的，可以看看Dev-C++的[6.x版本](https://github.com/Embarcadero/Dev-Cpp/releases)
 
 如果纯小白的话，有三个选择：
 1. 上面链接的VSCode
