@@ -1,5 +1,5 @@
 - 详细
-  - [仓库地址](https://github.com/SCU-CS/Course-Template)
+  - [仓库地址](https://github.com/SCU-CS/C-Cpp)
   - [Org](https://github.com/SCU-CS)
 - 跳转
   - [README仓库](https://github.com/SCU-CS/README)

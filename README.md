@@ -10,6 +10,8 @@ The template of course repository
 
 推荐书籍在[这里](guide/README.md#书籍推荐)
 
+> 建议阅读完本页后阅读[下一页](guide/README.md)
+
 ## 安装环境
 
 一些常用的软件[镜像站](http://bbs.covariant.cn/d/14)（主要是VSCode）
@@ -23,10 +25,22 @@ The template of course repository
 
 如果有兴趣现在自己电脑装环境的话，就看看下面的内容。
 
-比较折腾的VSCode的教程:<https://zhuanlan.zhihu.com/p/87864677>  
+> 先看**注意**，再看教程
+
+比较折腾的VSCode的教程:<https://zhuanlan.zhihu.com/p/87864677>  不想弄可以先跳过
 注意点：
 1. 如果不知道debug是什么的话，可以先不管debug部分
-2. MinGW可以在这里[下载](http://mirrors.covariant.cn/software/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z)（也可以加群手把手教安装）
+   1. 包括不限于
+   2. Task.json
+   3. launch.json
+2. MinGW首选安装方式 Release 下载 msi 安装包（要是找不到的话，[点我](https://github.com/SCU-CS/C-Cpp/releases/download/alpha/gcc-10.2.0-mingw-w64-8.0.0-r8-covscript.org.msi)
+   1. 一直 next
+   2. 该同意点一下的时候点一下就好了
+   3. 最后 **install** 等一会就行
+   4. 配置环境变量的过程在安装中完成了 **不需要自己配置环境变量**
+3. MinGW也可以在这里[下载](http://mirrors.covariant.cn/software/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z)（也可以加群手把手教安装）
+   1. 这个需要手动配置环境变量
+   2. 主要是这个下得快
 
 
 ### Windows
@@ -38,7 +52,9 @@ The template of course repository
 如果纯小白的话，有三个选择：
 1. 上面链接的VSCode
 2. Visual Studio
-3. [Dev-Cpp](https://devcpp.gitee.io/)或者Code::Block
+   1. 搜索，然后在官网下载免费的社区版
+   2. 下载完成后再下 C++ 相关的东西就行了
+3. [Dev-Cpp](https://devcpp.gitee.io/)或者[Code::Block](https://www.codeblocks.org/downloads/binaries)
    1. Dev的安装教程:<http://c.biancheng.net/cpp/html/3389.html>
    2. 使用指南:<https://zhuanlan.zhihu.com/p/259191634>
 

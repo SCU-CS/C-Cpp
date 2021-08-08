@@ -5,6 +5,9 @@
 
 可以先看书，也可以直接教程，看视频也无所谓，主要是得动手写点
 
+> 装什么环境无所谓，哪怕你用记事本写
+> 先写两行，再配环境都可以
+
 教程：
 - [经典菜鸟](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 - [看上去不错牛客](https://www.nowcoder.com/tutorial/10003/7bdcb36b1ff74114b026c46b7ac64ac1)
