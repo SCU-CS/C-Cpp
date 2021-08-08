@@ -29,19 +29,25 @@ The template of course repository
 
 比较折腾的VSCode的教程:<https://zhuanlan.zhihu.com/p/87864677>  不想弄可以先跳过
 注意点：
-1. 如果不知道debug是什么的话，可以先不管debug部分
+1. 看到配置环境的时候，跳过MinGW，然后接入下面的介绍，然后跳过文章的MinGW所有内容，看完安装插件的时候结束
+   1. 这时，再安装一个插件： **Code Runner**
+   2. 这时候，就可以算是安装完成了
+   3. 具体使用下图
+2. 如果不知道debug是什么的话，可以先不管debug部分
    1. 包括不限于
    2. Task.json
    3. launch.json
-2. MinGW首选安装方式 Release 下载 msi 安装包（要是找不到的话，[点我](https://github.com/SCU-CS/C-Cpp/releases/download/alpha/gcc-10.2.0-mingw-w64-8.0.0-r8-covscript.org.msi)
+3. MinGW首选安装方式 Release 下载 msi 安装包（要是找不到的话，[点我](https://github.com/SCU-CS/C-Cpp/releases/download/alpha/gcc-10.2.0-mingw-w64-8.0.0-r8-covscript.org.msi)
    1. 一直 next
    2. 该同意点一下的时候点一下就好了
    3. 最后 **install** 等一会就行
    4. 配置环境变量的过程在安装中完成了 **不需要自己配置环境变量**
-3. MinGW也可以在这里[下载](http://mirrors.covariant.cn/software/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z)（也可以加群手把手教安装）
+4. MinGW也可以在这里[下载](http://mirrors.covariant.cn/software/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z)（也可以加群手把手教安装）
    1. 这个需要手动配置环境变量
    2. 主要是这个下得快
 
+![Run-Code](images/Code-Runner.png)
+如何让代码跑起来的演示图
 
 ### Windows
 
