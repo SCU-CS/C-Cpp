@@ -47,7 +47,14 @@ The template of course repository
    2. 主要是这个下得快
 
 ![Run-Code](images/Code-Runner.png)
-如何让代码跑起来的演示图
+
+<center>如何让代码跑起来的演示图</center>
+
+![Runner In terminal](images/Runner-Terminal.png)
+
+<center>解决code runner不能输入的问题</center>
+
+
 
 ### Windows
 
